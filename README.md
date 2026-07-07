@@ -18,7 +18,7 @@
 ---
 
 
-## <img src="https://api.iconify.design/octicon/tools-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Tech Stack & Tools
+## <img src="https://api.iconify.design/octicon/tools-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 </div>
 ---
 
-## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=%23FFD700" width="24" height="24" align="center" /> What I'm Working On
+## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Working On
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/octicon/people-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Let's Connect & Collaborate
+## <img src="https://api.iconify.design/octicon/people-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Connect & Collaborate
 
 <div align="center">
 
@@ -86,6 +86,10 @@
 &nbsp;
 <a href="https://www.facebook.com/simantobiswas007">
   <img src="https://img.shields.io/badge/Facebook-FFA000?style=for-the-badge&logo=facebook&logoColor=1a1a1a" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/simanto_biswas/">
+  <img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=1a1a1a" alt="LeetCode"/>
 </a>
 
 </div>
