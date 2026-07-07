@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=a%20data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=A%20Data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <!-- 
@@ -72,22 +72,6 @@
 
 
 </div>
-
----
-
-## <img src="https://api.iconify.design/octicon/graph-24.svg?color=%23FFD700" width="24" height="24" align="center" /> GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=JeetSimanto&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFC107&text_color=FFD700&bg_color=0d0d0d&ring_color=FFD700" alt="GitHub Stats"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeetSimanto&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0d0d0d" alt="Top Languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=JeetSimanto&theme=transparent&hide_border=true&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFC107&dates=888888" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 ## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=%23FFD700" width="24" height="24" align="center" /> What I'm Working On
