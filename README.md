@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=A%20Data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=a%20data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <!-- 
@@ -107,9 +107,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeetSimanto&bg_color=0d0d0d&color=FFD700&line=FFC107&point=FFD700&area=true&area_color=FFD70020&hide_border=true&title_color=FFD700" alt="Activity Graph"/>
-
 </div>
 
 ---
@@ -122,4 +119,5 @@
 *"Data is the new oil — and I'm here to refine it."*
 
 </div>
+
 
