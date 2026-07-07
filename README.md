@@ -1,12 +1,25 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=200&section=header&text=Hey,%20I'm%20Simanto%20👋&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20ML%20Engineer%20in%20the%20Making&descColor=FFC107&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20ML%20Engineer%20in%20the%20Making&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
+<!-- 
+  TO EDIT TYPING TAGLINES:
+  Replace the text in the "lines" parameter below.
+  - Separate multiple lines with a semicolon (;)
+  - Replace spaces with plus symbols (+)
+  Current lines:
+  1. Writing efficient Python code for data analysis and intelligent systems
+  2. Accelerating mathematical workflows and array operations using NumPy
+  3. Creating recommendation engines and optimizing data pipelines with Pandas
+  4. Building Smart apps and websites powered by autonomous AI agents
+  5. Open to Freelance Opportunities
+-->
 <a href="https://github.com/JeetSimanto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Passionate+about+Machine+Learning+%F0%9F%A4%96;Open+to+Freelance+Projects+%F0%9F%9A%80;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=50&lines=Writing+efficient+Python+code+for+data+analysis+and+intelligent+systems;Accelerating+mathematical+workflows+and+array+operations+using+NumPy;Creating+recommendation+engines+and+optimizing+data+pipelines+with+Pandas;Building+Smart+apps+and+websites+powered+by+autonomous+AI+agents;Open+to+Freelance+Opportunities" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
@@ -19,29 +32,8 @@
 
 ---
 
-## 🌟 About Me
 
-```python
-simanto = {
-    "name"      : "Simanto",
-    "location"  : "🇧🇩 Bangladesh",
-    "role"      : "Data Enthusiast & ML Engineering Student",
-    "languages" : ["Python"],
-    "libraries" : ["Pandas", "NumPy", "Matplotlib"],
-    "database"  : ["MySQL"],
-    "passion"   : "Transforming data into decisions",
-    "goal"      : "Machine Learning Engineering",
-    "available" : "Open to Freelance Opportunities 💼",
-}
-```
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2&section=header" width="100%"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+## <img src="https://api.iconify.design/octicon/tools-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -78,7 +70,7 @@ simanto = {
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://api.iconify.design/octicon/graph-24.svg?color=%23FFD700" width="24" height="24" align="center" /> GitHub Statistics
 
 <div align="center">
 
@@ -93,11 +85,11 @@ simanto = {
 
 ---
 
-## 🤖 What I'm Working On
+## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=%23FFD700" width="24" height="24" align="center" /> What I'm Working On
 
 <div align="center">
 
-| 🔭 Currently | 📚 Learning | 💡 Interests |
+| <img src="https://api.iconify.design/octicon/search-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Currently | <img src="https://api.iconify.design/octicon/book-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Learning | <img src="https://api.iconify.design/octicon/light-bulb-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Interests |
 |:---:|:---:|:---:|
 | Exploring ML Algorithms | Deep Learning & Neural Nets | Machine Learning Engineering |
 | Data Analysis Projects | Feature Engineering | Predictive Modeling |
@@ -107,17 +99,7 @@ simanto = {
 
 ---
 
-## 📈 My Data Journey
-
-```
-Data         → Cleaning      → Analysis     → Insights       → Impact
-Raw Files       Pandas/NumPy    Matplotlib     Patterns Found    Decisions Made
-   📂      →      🧹       →      📊      →       💡        →      🚀
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
+## <img src="https://api.iconify.design/octicon/people-24.svg?color=%23FFD700" width="24" height="24" align="center" /> Let's Connect & Collaborate
 
 <div align="center">
 
@@ -131,7 +113,7 @@ Raw Files       Pandas/NumPy    Matplotlib     Patterns Found    Decisions Made
 
 <br/><br/>
 
-> 💼 **Available for Freelance Work** — If you have a data project that needs a dedicated analyst, let's talk!
+> <img src="https://api.iconify.design/octicon/briefcase-24.svg?color=%23FFD700" width="18" height="18" align="center" /> **Available for Freelance Work** — If you have a data project that needs a dedicated analyst, let's talk!
 
 <br/>
 
@@ -145,8 +127,9 @@ Raw Files       Pandas/NumPy    Matplotlib     Patterns Found    Decisions Made
 <div align="center">
 
 <!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&fontSize=20&fontColor=FFD700&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&fontSize=20&fontColor=FFD700&animation=fadeIn"/>
 
-*"Data is the new oil — and I'm here to refine it."* ✨
+*"Data is the new oil — and I'm here to refine it."*
 
 </div>
+
