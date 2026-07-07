@@ -63,9 +63,9 @@
 
 | <img src="https://api.iconify.design/octicon/search-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Currently | <img src="https://api.iconify.design/octicon/milestone-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Planning | <img src="https://api.iconify.design/octicon/rocket-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Goal |
 |:---:|:---:|:---:|
-| Exploring ML Algorithms | Deep Learning & Neural Nets | |
-| Data Analysis Projects | Feature Engineering | Machine Learning Engineer |
-| Building my Portfolio | Advanced SQL & Databases | |
+| Pandas Projects | Matplotlib | |
+| Building Expense Tracker | building Payment System | Machine Learning Engineer |
+| learning Git & Github | Advanced SQL & Databases | |
 
 
 </div>
