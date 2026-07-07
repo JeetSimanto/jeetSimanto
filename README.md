@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20ML%20Engineer%20in%20the%20Making&descColor=FFC107&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=a%20data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <!-- 
@@ -24,9 +24,10 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=JeetSimanto&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=JeetSimanto&style=for-the-badge&color=0072ff&labelColor=1a1a1a&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/JeetSimanto?style=for-the-badge&color=FFD700&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/JeetSimanto?style=for-the-badge&color=0072ff&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers"/>
+
 
 </div>
 
@@ -51,8 +52,7 @@
 <img src="https://img.shields.io/badge/NumPy-FFC107?style=for-the-badge&logo=numpy&logoColor=1a1a1a" alt="NumPy"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-FFB300?style=for-the-badge&logo=plotly&logoColor=1a1a1a" alt="Matplotlib"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-FFA000?style=for-the-badge&logo=scikit-learn&logoColor=1a1a1a" alt="Scikit-learn"/>
+
 
 <br/><br/>
 
@@ -65,6 +65,11 @@
 <img src="https://img.shields.io/badge/VS_Code-FFB300?style=for-the-badge&logo=visual-studio-code&logoColor=1a1a1a" alt="VSCode"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Git-FFA000?style=for-the-badge&logo=git&logoColor=1a1a1a" alt="Git"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kaggle-FF8C00?style=for-the-badge&logo=kaggle&logoColor=1a1a1a" alt="Kaggle"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Antigravity-FF7300?style=for-the-badge&logo=googlegemini&logoColor=1a1a1a" alt="Antigravity"/>
+
 
 </div>
 
@@ -74,8 +79,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeetSimanto&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFC107&text_color=FFD700&bg_color=0d0d0d&ring_color=FFD700" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetSimanto&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0d0d0d" alt="Top Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=JeetSimanto&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFC107&text_color=FFD700&bg_color=0d0d0d&ring_color=FFD700" alt="GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeetSimanto&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0d0d0d" alt="Top Languages"/>
 
 <br/>
 
@@ -89,11 +94,12 @@
 
 <div align="center">
 
-| <img src="https://api.iconify.design/octicon/search-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Currently | <img src="https://api.iconify.design/octicon/book-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Learning | <img src="https://api.iconify.design/octicon/light-bulb-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Interests |
+| <img src="https://api.iconify.design/octicon/search-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Currently | <img src="https://api.iconify.design/octicon/milestone-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Planning | <img src="https://api.iconify.design/octicon/rocket-24.svg?color=%23FFD700" width="16" height="16" align="center" /> Goal |
 |:---:|:---:|:---:|
-| Exploring ML Algorithms | Deep Learning & Neural Nets | Machine Learning Engineering |
-| Data Analysis Projects | Feature Engineering | Predictive Modeling |
-| Building my Portfolio | Advanced SQL & Databases | Data Visualization |
+| Exploring ML Algorithms | Deep Learning & Neural Nets | Machine Learning Engineer |
+| Data Analysis Projects | Feature Engineering | |
+| Building my Portfolio | Advanced SQL & Databases | |
+
 
 </div>
 
