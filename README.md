@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=a%20data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=A%20Data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 <a href="https://github.com/JeetSimanto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=50&lines=Writing+efficient+Python+code+for+data+analysis+and+intelligent+systems;Accelerating+mathematical+workflows+and+array+operations+using+NumPy;Creating+recommendation+engines+and+optimizing+data+pipelines+with+Pandas;Building+Smart+apps+and+websites+powered+by+autonomous+AI+agents;Open+to+Freelance+Opportunities" alt="Typing SVG" />
 </a>
