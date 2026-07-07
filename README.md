@@ -1,21 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=A%20Data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<!-- 
-  TO EDIT TYPING TAGLINES:
-  Replace the text in the "lines" parameter below.
-  - Separate multiple lines with a semicolon (;)
-  - Replace spaces with plus symbols (+)
-  Current lines:
-  1. Writing efficient Python code for data analysis and intelligent systems
-  2. Accelerating mathematical workflows and array operations using NumPy
-  3. Creating recommendation engines and optimizing data pipelines with Pandas
-  4. Building Smart apps and websites powered by autonomous AI agents
-  5. Open to Freelance Opportunities
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Simanto&fontSize=50&fontColor=FFD700&fontAlignY=38&desc=a%20data%20Enthusiast&descColor=FFC107&descAlignY=60&animation=fadeIn" />
 <a href="https://github.com/JeetSimanto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=50&lines=Writing+efficient+Python+code+for+data+analysis+and+intelligent+systems;Accelerating+mathematical+workflows+and+array+operations+using+NumPy;Creating+recommendation+engines+and+optimizing+data+pipelines+with+Pandas;Building+Smart+apps+and+websites+powered+by+autonomous+AI+agents;Open+to+Freelance+Opportunities" alt="Typing SVG" />
 </a>
@@ -23,7 +8,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=JeetSimanto&style=for-the-badge&color=0072ff&labelColor=1a1a1a&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/JeetSimanto?style=for-the-badge&color=0072ff&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers"/>
@@ -38,7 +22,6 @@
 
 <div align="center">
 
-<!-- Languages -->
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=1a1a1a" alt="Python"/>
@@ -100,12 +83,10 @@
 <a href="https://github.com/JeetSimanto">
   <img src="https://img.shields.io/badge/GitHub-FFC107?style=for-the-badge&logo=github&logoColor=1a1a1a" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
-> <img src="https://api.iconify.design/octicon/briefcase-24.svg?color=%23FFD700" width="18" height="18" align="center" /> **Available for Freelance Work** — If you have a data project that needs a dedicated analyst, let's talk!
-
-<br/>
+&nbsp;
+<a href="https://www.facebook.com/simantobiswas007">
+  <img src="https://img.shields.io/badge/Facebook-FFA000?style=for-the-badge&logo=facebook&logoColor=1a1a1a" alt="Facebook"/>
+</a>
 
 </div>
 
@@ -113,10 +94,9 @@
 
 <div align="center">
 
-<!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&fontSize=20&fontColor=FFD700&animation=fadeIn"/>
 
-*"Data is the new oil — and I'm here to refine it."*
+*"Data is the new oil and I'm here to refine it."*
 
 </div>
 
